@@ -8,7 +8,7 @@
 }
 
 /* html {
-    background-image: url("../assets/images/bg.jpg");
+    background-image: url("https://raw.githubusercontent.com/sameerana129/samee-css/main/assignment%20number%202/assets/bg.jpg");
     background-attachment: fixed;
 }
 
@@ -64,7 +64,7 @@ body {
 }
 
 .sec-2 {
-    background-image: url("../assets/bg.jpg");
+    background-image: url("https://raw.githubusercontent.com/sameerana129/samee-css/main/assignment%20number%202/assets/bg.jpg");
     background-attachment: fixed;
     font-family: "Raleway", sans-serif;
     font-weight: 300;
